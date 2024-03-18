@@ -1,0 +1,14 @@
+import 'package:flutter/material.dart';
+const lightTextColor = Colors.black;
+  const Color primary = Colors.blue;
+  final Color primaryVariant = Colors.blue.shade700;
+    const Color secondary= Colors.orange;
+    final Color secondaryVariant = Colors.orange.shade700;
+    const Color background= Colors.white;
+    const  Color onPrimary= Colors.white;
+    const Color onSecondary= Colors.black;
+    const Color onBackground= Colors.black;
+    const Color error= Colors.red;
+    const Color onError= Colors.white;
+    const  Color surface= Colors.white;//Colors.grey.shade200;
+    const Color onSurface= Colors.black;
